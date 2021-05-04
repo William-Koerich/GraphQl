@@ -4,5 +4,5 @@ type employees {
 }
 
 type Query {
-  employees: [Employess!]!
+  employees: [employees!]!
 }

@@ -1,9 +1,9 @@
 type Tasks {
   id: ID!
-  types: String!
+  type: String!
   description: String!
 }
 
 type Query {
-  tasks: [Tasks]!
+  tasks: [Tasks!]!
 }
