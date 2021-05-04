@@ -1,0 +1,9 @@
+type Tasks {
+  id: ID!
+  types: String!
+  description: String!
+}
+
+type Query {
+  tasks: [Tasks]!
+}
