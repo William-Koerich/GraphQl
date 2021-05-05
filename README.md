@@ -11,7 +11,7 @@
 </p>
 
 <h2 align="center">
-  Uma exemplo simples de <b>GraphQL</b> em NodeJS!
+  Um exemplo simples de <b>GraphQL</b> em NodeJS!
 </h2>
 
 ## 🎯 Objetivo
