@@ -1,5 +1,5 @@
 import startServer from './startServer'
-import typeDefs from './graphql/typeDefs'
-import resolvers from './graphql/resolvers'
+import typeDefs from './typeDefs'
+import resolvers from './resolvers'
 
 startServer({ typeDefs, resolvers })
